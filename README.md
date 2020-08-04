@@ -4,6 +4,7 @@ Estou estudando JavaScript e algumas bibliotecas como React.js, Node.js e MongoD
 Me encontrei na área de programação web e mobile porque nessa consigo juntar minhas duas paixões, que é algoritmos e design grático.
 Sigo numa jornada inacabável, na busca pelo conhecimento, acredito que só estou começando e tenho muito o que aprender e melhorar .
 Gosto de ajudar aqueles que também  estão se esforçando para criar bons projetos e que buscam evoluir profissionalmente.
+Quero me tornar um programador Full-Steck e trabalhar com as melhores e mais atuais tecnologias para desenvolvimento web e mobile.
 
 Eis alguns dos meus contatos:
 Instagram:  @santossamuel18
