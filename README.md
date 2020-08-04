@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por design gráfico e programação.
- Estou estudando para me tornar um FullStack Developer :computer:
+ <br/> Estou estudando para me tornar um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estudando Baharelado em Sistemas de Informação no **IFBA campus Feira de Santana**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
