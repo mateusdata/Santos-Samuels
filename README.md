@@ -11,6 +11,6 @@ Sou apaixonado por design gráfico e programação.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, game Dota 2, e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: Linkedin https://www.linkedin.com/in/samuel-santos-0aaa2a1b3/
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santossamuelplus@gmail.com)](mailto:santossamuelplus@gmail.com)
+Gmail santossamuelplus@gmail.com
