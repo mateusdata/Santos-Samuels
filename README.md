@@ -12,7 +12,7 @@ Sou apaixonado por design gráfico e programação.
  <br/> :computer: &nbsp; Estou aprendendo: ReactJS, Node.js, MongoDB
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, game Dota 2, e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo:
- <br/> Linkedin: https://www.linkedin.com/in/samuel-santos-0aaa2a1b3/
+ <br/> Linkedin: https://www.linkedin.com/in/samuel-santos-0aaa2a1b3
  <br/> Gmail: santossamuelplus@gmail.com
  <br/> :iphone: &nbsp; Telefone: (75) 99857-8488
  <br/> :speech_balloon: &nbsp; Instagram: @santossamuel18
