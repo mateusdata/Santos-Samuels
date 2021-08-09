@@ -33,6 +33,4 @@ Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <
  
  ##
 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+ ![Snake animation](https://github.com/Santos-Samuels/Santos-Samuels/blob/output/github-contribution-grid-snake.svg)
