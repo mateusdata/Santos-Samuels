@@ -4,7 +4,7 @@ Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <
 :rocket:  &nbsp; Cursando Baharelado em Sistemas de Informação no **IFBA campus Feira de Santana**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
  <br/> :computer: &nbsp; Estou aprendendo: JavaScript, HTML, CSS, Vue.js e Bootstrap
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e seriados no Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e seriados no Netflix.
  
   ##
   
