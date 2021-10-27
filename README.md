@@ -3,7 +3,7 @@
 Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <br>
 :rocket:  &nbsp; Cursando Baharelado em Sistemas de Informação no **IFBA campus Feira de Santana**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> :computer: &nbsp; Estou aprendendo: JavaScript, HTML, CSS, Vue.js e Bootstrap
+ <br/> :computer: &nbsp; Tecnologias: React.js e Tailwind CSS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e seriados no Netflix.
  
   ##
@@ -18,12 +18,14 @@ Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Samuels&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Samuel-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
+  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js">
+  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS">
+  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" title="Vue.js">
+ <!--   <img align="center" alt="Samuel-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg"> -->
+  <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" title="Figma">
  
  <!-- <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <!-- <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
