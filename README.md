@@ -3,7 +3,7 @@
 Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <br>
 :rocket:  &nbsp; Cursando Baharelado em Sistemas de Informação no **IFBA campus Feira de Santana**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> :computer: &nbsp; Tecnologias: React.js e Tailwind CSS
+ <br/> :computer: &nbsp; Tecnologias: React.js, Styled Components, TypeScript e React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e seriados no Netflix.
  
   ##
